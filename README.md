@@ -1,1 +1,1 @@
-# tms570_i2c
+# tms570_perifericos
